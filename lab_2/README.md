@@ -2,3 +2,4 @@
 Хеш коміту: commit 60063e5f5ee899fe87a22291e3bef76f6b3c7d2a
 Створення нової гілки: git branch side_branch 
 Перехід на нову гілку: git checkout -b side_branch
+хуй
