@@ -5,4 +5,4 @@
 Створення нової гілки: git branch side_branch 
 Перехід на нову гілку: git checkout -b side_branch
 >>>>>>> 8bad643f5ea3701a9d5763f7b8c8638b71f09e79
-раз два три як чути
+
