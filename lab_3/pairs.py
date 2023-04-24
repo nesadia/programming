@@ -1,4 +1,4 @@
-print("lab_3")
+print(" lab_3 ")
 print("Enter your numbers with a space")
 numlist = list(map(int, input().split()))
 
